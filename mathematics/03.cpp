@@ -1,31 +1,35 @@
-// Write a program to find the factorial of a number:
-// INPUT:   5       3
-// OUTPUT: 120      6
-
 #include <bits/stdc++.h>
 using namespace std;
 
 int factorial(int n)
 {
+    cout << "\tInitialize x = 1," << endl;
+    cout << "\trunning loop:" << endl;
     int x = 1;
     for (int i = 2; i <= n; i++)
+    {
+        cout << "\t\t( " << i << " <= " << n << " ), x = " << x << " * " << i << " = " << x * i << endl;
         x = x * i;
+    }
+    cout << "\tloop ends here:" << endl;
+    cout << "\treturn x" << endl;
     return x;
 }
 
 int main()
 {
 
-    int n;
+    int n = 5;
 
-    cout << "=====================================" << endl;
-    cout << "--> Finding Factorial of number" << endl;
-    cout << "=====================================" << endl;
-    cout << "Enter the number: ";
-    cin >> n;
+    cout << "--------------------------------------------------------------" << endl;
+    cout << "=> Finding factorial of number" << endl;
+    cout << "--------------------------------------------------------------" << endl;
+    cout << "n = " << n << endl;
+    cout << "calling factorial(n) function:" << endl;
 
     int fact = factorial(n);
 
-    cout << "Factorial is: " << fact << endl;
-    cout << "=====================================" << endl;
+    cout << "function ends here:" << endl;
+    cout << "factorial is: " << fact << endl;
+    cout << "--------------------------------------------------------------" << endl;
 }
