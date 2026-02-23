@@ -76,4 +76,4 @@ This is [comprehensive guide](https://www.geeksforgeeks.org/dsa/data-structures-
 
 <hr />
 
-<center>Made with 💖 by <a href="https://www.linkedin.com/in/nikhil-barot-508968223/">Nikhil Barot</a></center>
+<div style="text-align: center;">Made with 💖 by <a href="https://www.linkedin.com/in/nikhil-barot-508968223/">Nikhil Barot</a></div>
