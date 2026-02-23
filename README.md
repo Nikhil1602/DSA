@@ -75,3 +75,5 @@ This is [comprehensive guide](https://www.geeksforgeeks.org/dsa/data-structures-
 - [Heap](/09_heap_table/README.md)
 
 <hr />
+
+<center>Made with 💖 by <a href="https://www.linkedin.com/in/nikhil-barot-508968223/">Nikhil Barot</a></center>
