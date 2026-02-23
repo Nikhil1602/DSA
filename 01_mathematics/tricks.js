@@ -8,13 +8,6 @@ let number2 = 12345;
 let withoutLastDigit = Math.floor(number2 / 10); // By dividing by 10 and using Math.floor, we remove the last digit
 console.log(withoutLastDigit); // Output: 1234
 
-// To traverse the loop cyclically:
-let array = [1, 2, 3, 4, 5];
-for (let i = 0; i < 10; i++) {
-    let index = i % array.length; // By using % array.length, we can loop through the array cyclically
-    console.log(array[index]); // Output: 1, 2, 3, 4, 5, 1, 2, 3, 4, 5
-}
-
 // To get the sum of n natural numbers:
 let n = 5;
 let sum = (n * (n + 1)) / 2; // The formula for the sum of the first n natural numbers is n(n + 1) / 2
