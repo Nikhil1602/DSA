@@ -38,7 +38,8 @@ There are 2 types of burgers available at stall.
 - Premium burgers of price Y.
 
 He has total budget of rupees R.
-He wants to buy exactly N burgers within his budget. He must buy the maximum possible premium burgers. If not possible return -1.
+He wants to buy exactly N burgers within his budget. He must buy the maximum possible premium burgers. 
+If not possible return -1.
 
 Input:
 2 10 4 12 -> (X Y N R)
