@@ -1,6 +1,11 @@
 # Mathematics ➗
 
-This document will provide the mathematics required for programming. You can check all the tricks by referring [tricks.js](/01_mathematics/tricks.js) file.
+This document will provide the mathematics required for programming.
+
+## Important to refer
+
+- Check all the mathematical tricks & tips in [tricks.js](/01_mathematics//tricks.js)
+- To solve any pattern problem watch [this](https://www.youtube.com/watch?v=beYCK8g4zgs)
 
 ## Problems
 
@@ -28,7 +33,6 @@ This document will provide the mathematics required for programming. You can che
 20. Program to find the nth term of [AP](https://www.youtube.com/shorts/S8Y9EAWlRIw).
 
 ### 🟠 `Medium`
-
 
 ```
 Amit wants to buy exactly N burgers.
