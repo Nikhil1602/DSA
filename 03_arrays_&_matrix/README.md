@@ -13,6 +13,7 @@ There are two types of arrays in programming: `1D` arrays and `2D` arrays `(Matr
 - `includes(searched-element)`: to check whether the searched-element is present in the array or not.
 - `reverse()`: to reverse the array elements.
 - To know more about such methods visit [here](https://www.w3schools.com/js/js_array_methods.asp).
+- To know about string methods visit [here](https://www.w3schools.com/js/js_string_methods.asp).
 
 ## Tricks & Tips
 
@@ -51,5 +52,8 @@ There are two types of arrays in programming: `1D` arrays and `2D` arrays `(Matr
 16. [String Compression](https://www.youtube.com/watch?v=cAB15h6-sWA)
 17. [Reverse words in String](https://www.youtube.com/watch?v=RitppzIdMCo)
 18. [First unique character in string](https://www.youtube.com/watch?v=sqyCBvEQN9c)
+19. [Valid palindrome](https://www.youtube.com/watch?v=dSRFgEs3a6A)
+20. [Product of Array except self](https://www.youtube.com/watch?v=TW2m8m_FNJE)
+21. [Subarray Sum equals k](https://www.youtube.com/watch?v=KDH4mhFVvHw)
 
-For more such problem visit [here](https://www.geeksforgeeks.org/dsa/top-50-array-coding-problems-for-interviews/).
+For more such problem visit [here](https://www.geeksforgeeks.org/dsa/top-50-array-coding-problems-for-interviews/). 
