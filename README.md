@@ -65,13 +65,13 @@ This is [comprehensive guide](https://www.geeksforgeeks.org/dsa/data-structures-
 ## Documentation 📓
 
 - [Mathematics](/01_mathematics/README.md)
-- [Arrays & Matrix](/02_arrays_&_matrix/README.md)
-- [Bit Manipulation](/03_bit_manipulation/README.md)
+- [Bit Manipulation](/02_bit_manipulation/README.md)
+- [Arrays & Matrix](/03_arrays_&_matrix/README.md)
 - [Stack](/04_stack/README.md)
 - [Queue](/05_queue/README.md)
 - [Linked List](/06_linked_list/README.md)
-- [Trees](/07_trees/README.md)
-- [Graphs](/08_graphs/README.md)
+- [Tree](/07_trees/README.md)
+- [Graph](/08_graphs/README.md)
 - [Heap](/09_heap_table/README.md)
 
 <hr />
